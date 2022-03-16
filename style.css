@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: rgba(117, 190, 218, 0.5);
+}
+
+form {
+  background-color: yellow;
+  max-width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 3px 2px;
+}
+
+h4 {
+  margin-bottom: 5px;
+}
+
+#submit {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
